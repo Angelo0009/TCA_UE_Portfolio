@@ -2,8 +2,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Binaries/
-
 .vs/
-*.sln
+
 *.VC.db
 *.VC.opendb
